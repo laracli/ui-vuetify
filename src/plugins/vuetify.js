@@ -7,11 +7,12 @@ import Vuetify, {
 } from 'vuetify/lib'
 
 Vue.use(Vuetify, {
-  components: { 
+//  components: { 
 //    VBtn, 
 //    VIcon, 
 //    VLayout, 
-//    VSnackbar }
+//    VSnackbar 
+//  }
 })
 
 export default new Vuetify({
